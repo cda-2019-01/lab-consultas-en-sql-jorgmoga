@@ -3,4 +3,4 @@
 ## registros de la tabla tbl1 ordenados por fecha
 ## 
 
-SELECT* FROM tbl1 LIMIT 5;
+SELECT* FROM tbl1 ORDER BY c14 LIMIT 5;
