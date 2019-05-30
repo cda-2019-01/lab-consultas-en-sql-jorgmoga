@@ -3,4 +3,4 @@
 ## registros de la tabla tbl1 ordenados por fecha
 ## 
 
-SELECT COUNT(*) from tbl1;
+SELECT* FROM tbl1 LIMIT 5;
